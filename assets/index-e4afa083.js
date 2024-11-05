@@ -41726,9 +41726,9 @@ function uf() {
                             children: dt.jsx("a", {
                               className:
                                 "p-3 border-amber-500 border rounded-md text-amber-500 hover:text-white hover:border-white",
-                              href: "https://www.linkedin.com/in/cmacu",
+                              href: "https://stackoverflow.com/users/19656840/whimsy-cat",
                               target: "_",
-                              children: "LinkedIn",
+                              children: "StackOverflow",
                             }),
                           }),
                           dt.jsx("li", {
@@ -41736,16 +41736,26 @@ function uf() {
                             children: dt.jsx("a", {
                               className:
                                 "p-3 border-amber-500 border rounded-md text-amber-500 hover:text-white hover:border-white",
-                              href: "https://www.github.com/cmacu",
+                              href: "https://github.com/whimsy-cat",
                               target: "_",
                               children: "Github",
+                            }),
+                          }),
+                          dt.jsx("li", {
+                            className: "m-10",
+                            children: dt.jsx("a", {
+                              className:
+                                "p-3 border-amber-500 border rounded-md text-amber-500 hover:text-white hover:border-white",
+                              href: "https://www.facebook.com/profile.php?id=61565427000890",
+                              target: "_",
+                              children: "Facebook",
                             }),
                           }),
                         ],
                       }),
                       dt.jsx("p", {
                         className: "pt-10",
-                        children: "Copyright ™ 2023   www.nWs3maIMB3Aa.com",
+                        children: "Copyright ™ 2024   www.whimsy-cat.com",
                       }),
                     ],
                   }),
