@@ -41579,7 +41579,7 @@ function uf() {
                   "Hi, I am ",
                   dt.jsx("span", {
                     className: "font-bold",
-                    children: "Gabriel",
+                    children: "Dustin",
                   }),
                   "!",
                 ],
@@ -41589,7 +41589,7 @@ function uf() {
                 children: dt.jsx("p", {
                   className: "max-w-prose",
                   children:
-                    "I am a full-stack developer with over a decade of experience in web and cloud development. I have an early-career background in graphic design, so I am passionate about creating beautiful, functional, user-friendly apps and solutions. I'm always looking for new and interesting challenges, and ways to improve personally and professionally. I live with my family in Ontario, Canada, and in my spare time I enjoy playing board games, watching movies, and traveling.",
+                    "I am a full-stack developer with over a decade of experience in web and cloud development. I have an early-career background in graphic design, so I am passionate about creating beautiful, functional, user-friendly apps and solutions. I'm always looking for new and interesting challenges, and ways to improve personally and professionally. I live with my family in Texas, United States, and in my spare time I enjoy playing board games, watching movies, and traveling.",
                 }),
               }),
             ],
@@ -41647,7 +41647,8 @@ function uf() {
                 children: [
                   dt.jsxs("form", {
                     className: "basis-1/2 flex-column gap-6",
-                    action: "https://formsubmit.co/gabrielaoki1002@gmail.com",
+                    action:
+                      "https://formsubmit.co/rodneytinneydustin@gmail.com",
                     method: "POST",
                     onSubmit: i,
                     children: [
@@ -41726,17 +41727,7 @@ function uf() {
                             children: dt.jsx("a", {
                               className:
                                 "p-3 border-amber-500 border rounded-md text-amber-500 hover:text-white hover:border-white",
-                              href: "https://stackoverflow.com/users/19656840/whimsy-cat",
-                              target: "_",
-                              children: "StackOverflow",
-                            }),
-                          }),
-                          dt.jsx("li", {
-                            className: "m-10",
-                            children: dt.jsx("a", {
-                              className:
-                                "p-3 border-amber-500 border rounded-md text-amber-500 hover:text-white hover:border-white",
-                              href: "https://github.com/whimsy-cat",
+                              href: "https://github.com/Dustin10091984",
                               target: "_",
                               children: "Github",
                             }),
@@ -41746,9 +41737,9 @@ function uf() {
                             children: dt.jsx("a", {
                               className:
                                 "p-3 border-amber-500 border rounded-md text-amber-500 hover:text-white hover:border-white",
-                              href: "https://www.facebook.com/profile.php?id=61565427000890",
+                              href: "https://www.linkedin.com/in/dustin-tinney-40b3a531a/",
                               target: "_",
-                              children: "Facebook",
+                              children: "Linkedin",
                             }),
                           }),
                         ],
